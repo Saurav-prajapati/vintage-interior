@@ -556,3 +556,7 @@ ul.contact-social_icons li a {
 		font-size: 35px;
 	}
 }
+.video_tag{
+	width: 100%;
+	object-fit: cover;
+}
