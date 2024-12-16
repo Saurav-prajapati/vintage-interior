@@ -556,7 +556,13 @@ ul.contact-social_icons li a {
 		font-size: 35px;
 	}
 }
-.video_tag{
+.video_tag {
+	min-height: 240px;
+	width: 100%;
+	object-fit: cover;
+}
+.image_tag {
+	height: 240px !important;
 	width: 100%;
 	object-fit: cover;
 }
